@@ -30,10 +30,6 @@ Indices:
           \\/    \\/    \\/    \\/    \\/
 
 ## Future Work
-What does section 5 mean?
+See [https://gist.github.com/shanewholloway/8987507c06583ff5a5f33012fa10ab9d](https://gist.github.com/shanewholloway/8987507c06583ff5a5f33012fa10ab9d) for an improved version.
 
-- Mesh builder
-- Pathfinder
-- Entity horizon searches within structure?
-    - Other query shapes? Quads, spheres, frustums, etc.
-- Measure distance? How do arcs work, if at all?
+Complete icosahedral 3D lib to come...
